@@ -1,5 +1,6 @@
-# project-1 Name To be determined
+An Analysis of the Real Estate Market in New York City
 
-Making a readme so the repo is not empty for now.
+Initial .csv Sourced from https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 
-Go team go
+
+
