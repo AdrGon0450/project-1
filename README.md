@@ -8,6 +8,7 @@ Welcome to the New York Real Estate Analysis repository! This collaborative proj
 - Adrian Gonzalez
 - Karen Talgi
 - Jose Cuevas
+- Sophia Liu
 
 **Overview**
 
